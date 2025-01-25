@@ -174,6 +174,12 @@ Siddharth Prakash
 iamsid0011@gmail.com
 https://siddharthprakash.vercel.app/
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Siddharth
+
+
 
 ## Acknowledgments
 - Hugging Face for the BERT model
